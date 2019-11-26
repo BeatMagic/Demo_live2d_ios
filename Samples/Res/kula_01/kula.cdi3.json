@@ -1,0 +1,151 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左目　開閉"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右目　開閉"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "目玉 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "目玉 Y"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "左眉　上下"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "右眉　上下"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "口　変形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "口　開閉"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "",
+			"Name": "髪揺れ　前"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "",
+			"Name": "髪揺れ　横"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "",
+			"Name": "髪揺れ　後"
+		},
+		{
+			"Id": "ParamHairMaehane",
+			"GroupId": "",
+			"Name": "髪揺れ 前はね"
+		},
+		{
+			"Id": "ParamHairShitahane",
+			"GroupId": "",
+			"Name": "髪揺れ 下はね"
+		},
+		{
+			"Id": "ParamHairLeftMesh",
+			"GroupId": "",
+			"Name": "髪揺れ 左メッシュ"
+		},
+		{
+			"Id": "ParamHairBackhane",
+			"GroupId": "",
+			"Name": "髪揺れ 後ろ長髪"
+		},
+		{
+			"Id": "ParamHairBackSidehane",
+			"GroupId": "",
+			"Name": "髪揺れ 後ろはね髪"
+		},
+		{
+			"Id": "ParamStrap",
+			"GroupId": "",
+			"Name": "ストラップ揺れ"
+		},
+		{
+			"Id": "ParamChack",
+			"GroupId": "",
+			"Name": "チャック揺れ"
+		},
+		{
+			"Id": "ParamBast",
+			"GroupId": "",
+			"Name": "胸揺れ"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "前横髪"
+		},
+		{
+			"Id": "Part2",
+			"Name": "顔"
+		},
+		{
+			"Id": "Part7",
+			"Name": "後ろ髪"
+		},
+		{
+			"Id": "Part3",
+			"Name": "左目"
+		},
+		{
+			"Id": "Part5",
+			"Name": "右目"
+		},
+		{
+			"Id": "Part4",
+			"Name": "左まつ毛"
+		},
+		{
+			"Id": "Part6",
+			"Name": "右まつ毛"
+		}
+	]
+}

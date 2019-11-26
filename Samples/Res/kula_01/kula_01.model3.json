@@ -1,0 +1,18 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "kula.moc3",
+		"Textures": [
+			"kula.2048/texture_00.png"
+		],
+		"Physics": "kula.physics3.json",
+		"DisplayInfo": "kula.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}

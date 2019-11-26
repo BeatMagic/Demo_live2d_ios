@@ -1,0 +1,7 @@
+id: "175f1dc4-acd4-4e6b-ba3d-97c607991567"
+sdk: "native"
+version: "4-beta.1"
+hash:
+  core: "696c222d257d3f99e65c335de0d695f78769910c"
+  framework: "1f50b18fdf8352034aa816a8da7f6202142b93ae"
+  samples: "420d73bac61a1c1ac723db52b657ade264b3a8bc"
